@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "com.zhaocm",
+      "type": "com.zhocm.common.DemoResource",
+      "sourceType": "com.zhocm.common.DemoResource"
+    }
+  ],
+  "properties": [
+    {
+      "name": "com.zhaocm.address",
+      "type": "java.lang.String",
+      "sourceType": "com.zhocm.common.DemoResource"
+    },
+    {
+      "name": "com.zhaocm.name",
+      "type": "java.lang.String",
+      "sourceType": "com.zhocm.common.DemoResource"
+    }
+  ],
+  "hints": []
+}
